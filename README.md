@@ -4,9 +4,9 @@ OOPS with real time use cases
 BillerApp 
 __________
 
-The prime objective is to explain the real time usage and implementation of interface and inheritance
-Application is used to generate bill and process payment for a STORE
-This is developed to demonstrate the use of inheritance and interface
+The prime objective is to explain the real time usage and implementation of interface and inheritance.
+Application is used to generate bill and process payment for a STORE.
+This is developed to demonstrate the use of inheritance and interface.
 It is a console based java application.
 
 which has the following features.
